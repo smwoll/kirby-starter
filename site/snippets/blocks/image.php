@@ -26,9 +26,6 @@ if ($block->location()->value() === 'web') {
     $sizes = '(min-width: 900px) 50vw, 100vw';
 }
 
-echo 'src: ' . $src . '<br>';
-echo 'srcset: ' . $srcset . '<br>';
-
 ?>
 <?php if ($src): ?>
 <figure>
