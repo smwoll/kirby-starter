@@ -1,0 +1,10 @@
+name: kirby-starter
+proxy:
+  appserver:
+    - kirby-starter.lndo.site
+services:
+  appserver:
+    type: php:8.2
+    via: apache
+    ssl: true
+    webroot: .
