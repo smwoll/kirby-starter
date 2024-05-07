@@ -7,4 +7,4 @@ services:
     type: php:8.2
     via: apache
     ssl: true
-    webroot: .
+    webroot: public
