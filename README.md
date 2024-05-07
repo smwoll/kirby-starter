@@ -14,8 +14,6 @@ It is ideal for new users to explore many of Kirby's options and get to know the
 
 You can learn more about Kirby at [getkirby.com](https://getkirby.com).
 
-<img src="http://getkirby.com/assets/images/github/starterkit-screen.png" />
-
 ### Try Kirby for free
 
 You can try Kirby and the Starterkit on your local machine or on a test server as long as you need to make sure it is the right tool for your next project. … and when you’re convinced, [buy your license](https://getkirby.com/buy).
