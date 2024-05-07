@@ -1,4 +1,10 @@
-<img src="http://getkirby.com/assets/images/github/starterkit.jpg" width="300">
+# Kirby Starter
+
+Based upon kirby starterkit, this is a simple setup for Kirby CMS testing.
+
+## Public folder setup
+
+Note that this modifies kirby's folder structure to use a public folder. See [cusotm folder setup](https://getkirby.com/docs/guide/configuration/custom-folder-setup#public-and-private-folder-setup).
 
 **Kirby: the CMS that adapts to any project, loved by developers and editors alike.**
 The Starterkit is a full-blown Kirby installation with a lot of example content, blueprints, templates and more.
