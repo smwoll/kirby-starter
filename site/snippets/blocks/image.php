@@ -38,6 +38,7 @@ if ($block->location()->value() === 'web') {
     'ratio'    => $block->ratio()->or('auto'),
     'srcset'   => $srcset,
     'sizes'    => $sizes,
+    'loading'  => 'lazy'
   ]) ?>
 
   <?php if ($block->caption()->isNotEmpty()): ?>

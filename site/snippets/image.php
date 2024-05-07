@@ -16,5 +16,6 @@ $attrs = attr([
     "
     srcset="<?= esc($srcset ?? '', 'attr') ?>"
     sizes="<?= esc($sizes ?? '', 'attr') ?>"
+    loading="<?= esc($loading ?? '', 'attr') ?>"
   >
 </a>
